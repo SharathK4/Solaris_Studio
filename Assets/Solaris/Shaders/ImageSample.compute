@@ -1,0 +1,53 @@
+// Samples an (optionally rotated) crop of a texture into an NHWC float tensor for the ML models.
+// affineMatrix maps tensor pixel coords (x right, y down) -> source texture pixels (y up).
+#pragma kernel Sample
+
+Texture2D<float4> X_tex2D;
+SamplerState LinearClampSampler;
+RWStructuredBuffer<float> Optr;
+
+uint O_width;
+uint O_height;
+uint X_width;
+uint X_height;
+float4x4 affineMatrix;
+float OutScale;     // e.g. 1 for [0,1] models, 2 for [-1,1]
+float OutBias;      // e.g. 0 or -1
+uint ToSrgb;        // 1 when the source is sampled as linear but the model wants sRGB values
+uint Planar;        // 1 = NCHW output, 0 = NHWC
+
+[numthreads(8, 8, 1)]
+void Sample(uint3 id : SV_DispatchThreadID)
+{
+    if (id.x >= O_width || id.y >= O_height)
+        return;
+
+    float4 src = mul(affineMatrix, float4(id.x, id.y, 1, 1));
+    float2 uv = src.xy / float2(X_width, X_height);
+
+    bool inside = uv.x >= 0 && uv.x <= 1 && uv.y >= 0 && uv.y <= 1;
+    float3 c = inside ? X_tex2D.SampleLevel(LinearClampSampler, uv, 0).rgb : 0;
+    if (ToSrgb)
+    {
+        bool3 hi = c > 0.0031308;
+        c = lerp(12.92 * c, 1.055 * pow(abs(c), 1.0 / 2.4) - 0.055, hi);
+    }
+    c = c * OutScale + OutBias;
+    if (!inside) c = OutBias;
+
+    if (Planar)
+    {
+        uint plane = O_width * O_height;
+        uint o = id.y * O_width + id.x;
+        Optr[o] = c.r;
+        Optr[o + plane] = c.g;
+        Optr[o + 2 * plane] = c.b;
+    }
+    else
+    {
+        uint o = (id.y * O_width + id.x) * 3;
+        Optr[o + 0] = c.r;
+        Optr[o + 1] = c.g;
+        Optr[o + 2] = c.b;
+    }
+}

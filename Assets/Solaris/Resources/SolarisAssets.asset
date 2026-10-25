@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7962e4ead77597b41b25191238ec2fa9, type: 3}
+  m_Name: SolarisAssets
+  m_EditorClassIdentifier: 
+  serif: {fileID: 11400000, guid: bc4f13b61b759c7419060c147e52abbb, type: 2}
+  serifItalic: {fileID: 11400000, guid: e4af6909e849d77448b5f387293d7ef0, type: 2}
+  sansLight: {fileID: 11400000, guid: c8867ebfe6f7bd34d83dc2f30e40d33a, type: 2}
+  sans: {fileID: 11400000, guid: 4f5deda9bfc39c8449d4d662c14de8f7, type: 2}
+  sansMedium: {fileID: 11400000, guid: be2a6d6c768539c418f517c05506d56e, type: 2}
+  garamond: {fileID: 11400000, guid: dd506d66de6fac94fbfe7c34c97cb32a, type: 2}
+  wordmarkSdf: {fileID: 2800000, guid: 869a09ed8f5de604c917845f99b30eef, type: 3}
+  titlePlate: {fileID: 2800000, guid: 79ce53fbfe24744469cccf76c87df101, type: 3}
+  titleDetail: {fileID: 2800000, guid: 8042a82ea5148524ea179fed76b87d9e, type: 3}
+  titleMotion: {fileID: 2800000, guid: e6ad4ef5f2730ac419bd830fbd85f12e, type: 3}
+  titleLogoSdf: {fileID: 2800000, guid: 60ceb3ea17e06af4a90a1099e03644a8, type: 3}
+  titleMeta: {fileID: 4900000, guid: d6dbe264922ea5f419253a01f8939549, type: 3}
+  welcomePlate: {fileID: 2800000, guid: 135ef9217bf9d26479d36e652412da02, type: 3}
+  welcomeDetail: {fileID: 2800000, guid: ddd70efd9090fb64289f2ca687859085, type: 3}
+  welcomeOrb: {fileID: 2800000, guid: f03103010c46a0f4d9d5a75cde41f67e, type: 3}
+  welcomeMeta: {fileID: 4900000, guid: d7f2b7c6c991b4345b48a7af9cfcf8e6, type: 3}
+  tutorialArt:
+  - {fileID: 2800000, guid: c07fb60ff3d84594b866e63c87ca6a2e, type: 3}
+  - {fileID: 2800000, guid: e18c534043bcc4047b1221a2a5f91d7f, type: 3}
+  - {fileID: 2800000, guid: f6da32f8848ceb941bdd16bd02f99dfb, type: 3}
+  - {fileID: 2800000, guid: 22d804a5b4b17d446b477b3b6feeb26e, type: 3}
+  - {fileID: 2800000, guid: 05cd3e361ed02314487d3254a04d6691, type: 3}
+  - {fileID: 2800000, guid: 0989fe4ed8fe6f5468765c36612d17e6, type: 3}
+  - {fileID: 2800000, guid: 413bc93cfbb044342b4903f3648e8cea, type: 3}
+  - {fileID: 2800000, guid: ee84ece5a2503d5488dc6cc0c194f053, type: 3}
+  - {fileID: 2800000, guid: b597865f3b6893e43b677005bc838baf, type: 3}
+  - {fileID: 2800000, guid: ff269890085f4d64aa6ddf75ba34ffc3, type: 3}
+  - {fileID: 2800000, guid: 6d891acbfd6091f418716f80c668aa4e, type: 3}
+  - {fileID: 2800000, guid: d9729da26aa49f44b961a113a3dc0a4e, type: 3}
+  tutorialMeta:
+  - {fileID: 4900000, guid: 1f7ce159ef965fd4d94a910534cb8922, type: 3}
+  - {fileID: 4900000, guid: d89731ed328045a44968e48afb151955, type: 3}
+  instruments:
+  - {fileID: 2800000, guid: 9e8452f29e6a6ab4fa0b9e71b72b8101, type: 3}
+  - {fileID: 2800000, guid: 56f6e2ab3216a3442acc6763aabcab12, type: 3}
+  - {fileID: 2800000, guid: 1dde9b60b8c819b43b70c64237512bc5, type: 3}
+  - {fileID: 2800000, guid: 74d6ae28992c9ff4eb59fbb4c8266950, type: 3}
+  - {fileID: 2800000, guid: 9d45ce2184e369345b291ba1b2446347, type: 3}
+  - {fileID: 2800000, guid: 08503bef8c0eaa54bb8f74c59afc5c12, type: 3}
+  - {fileID: 2800000, guid: 7e8bebecc9f77d7468eb802c04896fb0, type: 3}
+  shaders:
+  - {fileID: 4800000, guid: 360c54c1b08f1e54babfc8b2c5a0458f, type: 3}
+  - {fileID: 4800000, guid: 5c305c0b88beb104ba95d8792679958b, type: 3}
+  - {fileID: 4800000, guid: d4a9cd37f08206e419a8fbe7d5bb65eb, type: 3}
+  - {fileID: 4800000, guid: 6d9b5a0849e2c8943ab29f519eab921c, type: 3}
+  - {fileID: 4800000, guid: 89ae08e987ef73046b58599e4fd2a39f, type: 3}
+  - {fileID: 4800000, guid: d9fbf7fc2137de243b21c03333fd21e4, type: 3}
+  - {fileID: 4800000, guid: 062549e9022570e44b4511cbd82ec774, type: 3}
+  - {fileID: 4800000, guid: 300a2fcc9f79f584f87a445543da71a0, type: 3}
+  - {fileID: 4800000, guid: 9a504990779c7fe4e80aaadac3d29aec, type: 3}
+  - {fileID: 4800000, guid: be86f3d2c661cd74783278b1ba6aa20f, type: 3}
+  - {fileID: 4800000, guid: ac0ed16fa5571d741a2891c29f7284a9, type: 3}
+  - {fileID: 4800000, guid: 2704e3e305f55224c92821890aae8449, type: 3}
+  - {fileID: 4800000, guid: 7361a0008623e1e4ea0faa678d5d0009, type: 3}
+  - {fileID: 4800000, guid: cba2b88d500a92e4bbcfd9132d16abad, type: 3}
+  imageSampler: {fileID: 7200000, guid: e4b919cc2db61894488ffab3c7094a05, type: 3}
+  handDetector: {fileID: 5022602860645237092, guid: e6e16230fd5844c468c14e87b5004969, type: 3}
+  handLandmarker: {fileID: 5022602860645237092, guid: 43ff65a5d33af264a99f03078cde01da, type: 3}
+  faceDetector: {fileID: 5022602860645237092, guid: ed3419c679edeb549bc78883ca48b326, type: 3}
+  personSegmenter: {fileID: 5022602860645237092, guid: 77ba9d80c9f233540901e2b63f001444, type: 3}
+  handAnchors: {fileID: 4900000, guid: 1711d02ab1422954da5bbafc228d24d1, type: 3}
+  faceAnchors: {fileID: 4900000, guid: 4faed89f9108f6f40969d55077d07df4, type: 3}

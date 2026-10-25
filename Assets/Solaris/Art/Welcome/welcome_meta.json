@@ -1,0 +1,34 @@
+{
+  "imageWidth": 1246,
+  "imageHeight": 697,
+  "orbCenter": [
+    0.5016051364365971,
+    0.49641319942611195
+  ],
+  "orbRadius": 0.32568149210903874,
+  "orbMargin": 1.12,
+  "lines": [
+    {
+      "x0": 501,
+      "x1": 754,
+      "top": 106,
+      "baseline": 137,
+      "bottom": 146
+    },
+    {
+      "x0": 492,
+      "x1": 763,
+      "top": 150,
+      "baseline": 182,
+      "bottom": 191
+    },
+    {
+      "x0": 504,
+      "x1": 749,
+      "top": 633,
+      "baseline": 647,
+      "bottom": 657
+    }
+  ],
+  "detailScale": 1.6
+}

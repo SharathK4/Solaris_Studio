@@ -1,0 +1,19 @@
+{
+  "title": "Amazing Grace",
+  "artist": "John Newton · 1779",
+  "blurb": "A slow, open-hearted waltz. Long G chords give you time to settle each change.",
+  "mood": "Soulful",
+  "difficulty": "Easy",
+  "bpm": 76, "meter": 3, "pickup": 1,
+  "chords": "G G C G | G Em D D | G G C G | Em D G G | G G C G | G Em D D | G G C G | Em D G G",
+  "lyrics": [
+    "A:1 | ma-:2 zing:1 | grace,:2 how:1 | sweet:2 the:1 | sound:2",
+    "That:1 | saved:2 a:1 | wretch:2 like:1 | me.:3 | _:2",
+    "I:1 | once:2 was:1 | lost,:2 but:1 | now:2 am:1 | found,:2",
+    "Was:1 | blind,:2 but:1 | now:2 I:1 | see.:3 | _:2",
+    "’Twas:1 | grace:2 that:1 | taught:2 my:1 | heart:2 to:1 | fear,:2",
+    "And:1 | grace:2 my:1 | fears:2 re-:1 | lieved.:3 | _:2",
+    "How:1 | pre-:2 cious:1 | did:2 that:1 | grace:2 ap-:1 | pear:2",
+    "The:1 | hour:2 I:1 | first:2 be-:1 | lieved.:3 | _:3"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Scarborough Fair",
+  "artist": "Traditional English ballad",
+  "blurb": "A haunting minor waltz. Am and G carry it, with C and D for colour.",
+  "mood": "Haunting",
+  "difficulty": "Medium",
+  "bpm": 104, "meter": 3, "pickup": 0,
+  "chords": "Am Am G Am | C Am D Am | Am C G Am | G Em Am Am | Am Am G Am | C Am D Am | Am C G Am | G Em Am Am",
+  "lyrics": [
+    "Are:2 you:1 | go-:1.5 ing:0.5 to:1 | Scar-:1 bor-:1 ough:1 | Fair?:3",
+    "Pars-:2 ley,:1 | sage,:2 rose-:1 | ma-:1 ry:1 and:1 | thyme.:3",
+    "Re-:2 mem-:1 | ber:2 me:1 | to:1 one:1 who:1 | lives:3",
+    "there,:2 she:1 | once:2 was:1 | a:1 true:1 love:1 | of:1 mine.:2",
+    "Tell:2 her:1 | to:1.5 make:0.5 me:1 | a:1 cam-:1 bric:1 | shirt,:3",
+    "Pars-:2 ley,:1 | sage,:2 rose-:1 | ma-:1 ry:1 and:1 | thyme,:3",
+    "With-:2 out:1 | no:2 seams:1 | nor:1 nee-:1 dle-:1 | work,:3",
+    "then:2 she’ll:1 | be:2 a:1 | true:1 love:1 of:1 | mine.:3"
+  ]
+}

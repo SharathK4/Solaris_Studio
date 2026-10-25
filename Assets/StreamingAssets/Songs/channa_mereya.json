@@ -1,0 +1,47 @@
+{
+  "title": "Channa Mereya",
+  "artist": "Pritam · Arijit Singh · 2016",
+  "blurb": "Play along with the record: Am, F, Dm, C and G through the first verse into the chorus.",
+  "mood": "Heartbreak",
+  "difficulty": "Medium",
+  "bpm": 90.0,
+  "meter": 4,
+  "pickup": 0,
+  "drums": false,
+  "backing": "channa_mereya_backing.wav",
+  "backingOffset": 5.4333,
+  "tuningCents": 9,
+  "gestures": [
+    "C",
+    "Dm",
+    "F",
+    "G",
+    "Am"
+  ],
+  "alternates": [
+    "F:Bb"
+  ],
+  "chords": "Am F Dm C:2 G:2 | Am F Dm C:2 G:2 | Am F Dm C:2 G:2 | Am F Dm C:2 G:2 | Am F Dm C:2 G:2 | Am F Dm C:2 G:2 | Am Dm Bb:2 F:2 C | Am Dm Bb C:2 G:2 | Am",
+  "lyrics": [
+    "_:16.02 Aaccha:1.03 chalta:1.03 hoon:0.51",
+    "_:0.22 Duaaon:0.82 mein:0.82 yaad:0.82 rakhna:1.64",
+    "_:0.36 Mere:1.15 zikr:0.58 ka:0.58 zubaan:1.15 pe:0.58 suaad:0.58 rakhana:1.73",
+    "_:2.41 Aacha:1.03 chalta:1.03 hoon:0.51",
+    "_:0.22 Duaaon:0.82 main:0.82 yaad:0.82 rakhna:1.64",
+    "_:0.36 Mere:1.15 zikr:0.58 ka:0.58 zubaan:1.15 pe:0.58 suaad:0.58 rakhana:1.73",
+    "_:18.1 Dil:0.55 ke:0.55 sandookon:1.65 mein:0.55",
+    "_:0.28 Mere:0.88 acche:0.88 kaam:0.44 rakhna:0.88",
+    "_:0.25 Chitthi:1.46 taaron:1.46 mein:0.73 bhi:0.73",
+    "_:0.38 Mera:1.81 tu:0.91 salaam:1.81 rakhna:1.81",
+    "_:0.81 Andhera:0.86 tera,:0.58 maine:0.58 le:0.29 liya:0.29",
+    "_:0.22 Mera:1.15 ujla:1.15 sitaara:1.73 tere:1.15 naam:0.58 kiya:0.58",
+    "_:4.31 Channa:1.09 mereya:1.09 mereya:1.09",
+    "_:0.28 Channa:1.49 mereya:1.49 mereya:1.49",
+    "_:0.38 Channa:1.05 mereya:1.05 mereya:1.05 behliya:1.05",
+    "_:0.37 O:1.45 piya…:1.45",
+    "_:0.25 Channa:1.18 mereya:1.18 mereya:1.18",
+    "_:0.3 Channa:1.07 mereya:1.07 mereya:1.07",
+    "_:0.27 Channa:1.23 mereya:1.23 mereya:1.23 behliya:1.23",
+    "_:0.42 O:1.77 piya…:1.77"
+  ]
+}

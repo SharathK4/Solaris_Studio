@@ -1,0 +1,19 @@
+{
+  "title": "London Bridge",
+  "artist": "Traditional · 18th century",
+  "blurb": "A sing-song rhyme that swings between G and D. Great for timing your changes.",
+  "mood": "Playful",
+  "difficulty": "Beginner",
+  "bpm": 100, "meter": 4, "pickup": 0,
+  "chords": "G | D | G | G | G | D | G:2 D:2 | G | G | D | G | G | G | D | G:2 D:2 | G",
+  "lyrics": [
+    "Lon-:1.5 don:0.5 Bridge:1 is:1 | fall-:1 ing:1 down,:2",
+    "fall-:1 ing:1 down,:2 | fall-:1 ing:1 down.:2",
+    "Lon-:1.5 don:0.5 Bridge:1 is:1 | fall-:1 ing:1 down,:2",
+    "my:2 fair:2 | la-:2 dy.:2",
+    "Build:1.5 it:0.5 up:1 with:1 | wood:1 and:1 clay,:2",
+    "wood:1 and:1 clay,:2 | wood:1 and:1 clay.:2",
+    "Build:1.5 it:0.5 up:1 with:1 | wood:1 and:1 clay,:2",
+    "my:2 fair:2 | la-:2 dy.:2"
+  ]
+}

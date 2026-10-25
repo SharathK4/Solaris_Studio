@@ -1,0 +1,27 @@
+{
+  "title": "Jingle Bells",
+  "artist": "James Lord Pierpont · 1857",
+  "blurb": "Upbeat and bouncy. Mostly G with a C, Am and D turnaround every eight bars.",
+  "mood": "Festive",
+  "difficulty": "Medium",
+  "bpm": 118, "meter": 4, "pickup": 0,
+  "chords": "G G G G | C G Am D | G G G G | C G D G | G G G G | C G Am D | G G G G | C G D G",
+  "lyrics": [
+    "Jin-:1 gle:1 bells,:2 | jin-:1 gle:1 bells,:2",
+    "jin-:1 gle:1 all:1 the:1 | way!:4",
+    "Oh:1 what:1 fun:1 it:1 | is:1 to:1 ride:2",
+    "in:1 a:1 one--:1 horse:1 | o-:1 pen:1 sleigh,:2",
+    "Jin-:1 gle:1 bells,:2 | jin-:1 gle:1 bells,:2",
+    "jin-:1 gle:1 all:1 the:1 | way!:4",
+    "Oh:1 what:1 fun:1 it:1 | is:1 to:1 ride:2",
+    "in:1 a:1 one--:1 horse:1 | o-:1 pen:1 sleigh!:2",
+    "Jin-:1 gle:1 bells,:2 | jin-:1 gle:1 bells,:2",
+    "jin-:1 gle:1 all:1 the:1 | way!:4",
+    "Oh:1 what:1 fun:1 it:1 | is:1 to:1 ride:2",
+    "in:1 a:1 one--:1 horse:1 | o-:1 pen:1 sleigh,:2",
+    "Jin-:1 gle:1 bells,:2 | jin-:1 gle:1 bells,:2",
+    "jin-:1 gle:1 all:1 the:1 | way!:4",
+    "Oh:1 what:1 fun:1 it:1 | is:1 to:1 ride:2",
+    "in:1 a:1 one--:1 horse:1 | o-:1 pen:1 sleigh!:2"
+  ]
+}

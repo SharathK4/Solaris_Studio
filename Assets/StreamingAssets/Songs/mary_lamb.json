@@ -1,0 +1,19 @@
+{
+  "title": "Mary Had a Little Lamb",
+  "artist": "Sarah Josepha Hale · 1830",
+  "blurb": "Only two chords, G and D. The gentlest way to feel the strum under your hands.",
+  "mood": "Gentle",
+  "difficulty": "Beginner",
+  "bpm": 96, "meter": 4, "pickup": 0,
+  "chords": "G G D G | G G D G | G G D G | G G D G",
+  "lyrics": [
+    "Ma-:1 ry:1 had:1 a:1 | lit-:1 tle:1 lamb,:2",
+    "lit-:1 tle:1 lamb,:2 | lit-:1 tle:1 lamb,:2",
+    "Ma-:1 ry:1 had:1 a:1 | lit-:1 tle:1 lamb,:1 its:1",
+    "fleece:1 was:1 white:1 as:1 | snow.:4",
+    "Ev-:1 ery-:1 where:1 that:1 | Ma-:1 ry:1 went,:2",
+    "Ma-:1 ry:1 went,:2 | Ma-:1 ry:1 went,:2",
+    "ev-:1 ery-:1 where:1 that:1 | Ma-:1 ry:1 went,:1 the:1",
+    "lamb:1 was:1 sure:1 to:1 | go.:4"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Twinkle Twinkle Little Star",
+  "artist": "Jane Taylor · 1806",
+  "blurb": "The first song everyone learns. Quick C, G and D changes to warm up your hands.",
+  "mood": "Playful",
+  "difficulty": "Easy",
+  "bpm": 88, "meter": 4, "pickup": 0,
+  "chords": "G | C:2 G:2 | C:2 G:2 | D:2 G:2 | G:2 C:2 | G:2 D:2 | G:2 C:2 | G:2 D:2 | G | C:2 G:2 | C:2 G:2 | D:2 G:2",
+  "lyrics": [
+    "Twin-:1 kle:1 twin-:1 kle:1 | lit-:1 tle:1 star,:2",
+    "How:1 I:1 won-:1 der:1 | what:1 you:1 are.:2",
+    "Up:1 a-:1 bove:1 the:1 | world:1 so:1 high,:2",
+    "Like:1 a:1 dia-:1 mond:1 | in:1 the:1 sky.:2",
+    "Twin-:1 kle:1 twin-:1 kle:1 | lit-:1 tle:1 star,:2",
+    "How:1 I:1 won-:1 der:1 | what:1 you:1 are.:2"
+  ]
+}

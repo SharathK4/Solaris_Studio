@@ -1,0 +1,19 @@
+{
+  "title": "Joyful, Joyful",
+  "artist": "Beethoven · words Henry van Dyke 1907",
+  "blurb": "The Ode to Joy melody in steady quarter notes over G and D. Feel each change land.",
+  "mood": "Uplifting",
+  "difficulty": "Easy",
+  "bpm": 100, "meter": 4, "pickup": 0,
+  "chords": "G | G:2 D:2 | G | D | G | G:2 D:2 | G | D:2 G:2 | D | G | D | Em:2 D:2 | G | G:2 D:2 | G | D:2 G:2",
+  "lyrics": [
+    "Joy-:1 ful,:1 joy-:1 ful,:1 | we:1 a-:1 dore:1 Thee,:1",
+    "God:1 of:1 glo-:1 ry,:1 | Lord:1.5 of:0.5 love;:2",
+    "Hearts:1 un-:1 fold:1 like:1 | flowers:1 be-:1 fore:1 Thee,:1",
+    "op’-:1 ning:1 to:1 the:1 | sun:1.5 a-:0.5 bove.:2",
+    "Melt:1 the:1 clouds:1 of:1 | sin:1 and:1 sad-:1 ness;:1",
+    "drive:1 the:1 dark:1 of:1 | doubt:1 a-:1 way;:2",
+    "Giv-:1 er:1 of:1 im-:1 | mor-:1 tal:1 glad-:1 ness,:1",
+    "fill:1 us:1 with:1 the:1 | light:1.5 of:0.5 day!:2"
+  ]
+}

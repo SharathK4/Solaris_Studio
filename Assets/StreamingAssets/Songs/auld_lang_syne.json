@@ -1,0 +1,18 @@
+{
+  "title": "Auld Lang Syne",
+  "artist": "Robert Burns · 1788",
+  "blurb": "The warm farewell song. Dotted rhythms over G, D, C and a tender Em.",
+  "mood": "Nostalgic",
+  "difficulty": "Medium",
+  "bpm": 84, "meter": 4, "pickup": 1,
+  "chords": "G | D | G | C | G | D | Em:2 C:2 | D:2 G:2 | G | D | G | C | G | D | Em:2 C:2 | D:2 G:2",
+  "lyrics": [
+    "Should:1 | auld:1.5 ac-:0.5 quaint-:1 ance:1 | be:1.5 for-:0.5 got,:1 and:1",
+    "nev-:1.5 er:0.5 brought:1 to:1 | mind?:3 Should:1",
+    "auld:1.5 ac-:0.5 quaint-:1 ance:1 | be:1.5 for-:0.5 got,:1 and:1",
+    "days:1.5 of:0.5 auld:1 lang:1 | syne?:3 For:1",
+    "auld:1.5 lang:0.5 syne,:1 my:1 | dear,:3 for:1",
+    "auld:1.5 lang:0.5 syne,:1 we’ll:1 | take:1.5 a:0.5 cup:1 o’:1",
+    "kind-:1.5 ness:0.5 yet,:1 for:1 | auld:1.5 lang:0.5 syne.:2 | _:4"
+  ]
+}

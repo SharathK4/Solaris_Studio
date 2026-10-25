@@ -1,0 +1,19 @@
+{
+  "title": "Happy Birthday",
+  "artist": "Traditional",
+  "blurb": "Short, bright and in three. Perfect for learning when to switch between G, D and C.",
+  "mood": "Celebratory",
+  "difficulty": "Easy",
+  "bpm": 104, "meter": 3, "pickup": 1,
+  "chords": "G | D | D | G | G | C | G:2 D:1 | G | G | D | D | G | G | C | G:2 D:1 | G",
+  "lyrics": [
+    "Hap-:0.5 py:0.5 | birth-:1 day:1 to:1 | you,:2",
+    "Hap-:0.5 py:0.5 | birth-:1 day:1 to:1 | you,:2",
+    "Hap-:0.5 py:0.5 | birth-:1 day:1 dear:1 | friend,:2",
+    "Hap-:0.5 py:0.5 | birth-:1 day:1 to:1 | you!:2",
+    "Hap-:0.5 py:0.5 | birth-:1 day:1 to:1 | you,:2",
+    "Hap-:0.5 py:0.5 | birth-:1 day:1 to:1 | you,:2",
+    "Hap-:0.5 py:0.5 | birth-:1 day:1 dear:1 | friend,:2",
+    "Hap-:0.5 py:0.5 | birth-:1 day:1 to:1 | you!:3"
+  ]
+}
